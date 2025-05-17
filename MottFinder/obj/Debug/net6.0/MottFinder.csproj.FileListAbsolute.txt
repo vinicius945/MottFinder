@@ -1,0 +1,7 @@
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.csproj.AssemblyReference.cache
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labsfiap\source\repos\MottFinder\obj\Debug\net6.0\MottFinder.MvcApplicationPartsAssemblyInfo.cache
