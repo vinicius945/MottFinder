@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.cache
+*.dbmdl
+
+# Build / bin / obj
+bin/
+obj/
+TestResults/
+*.log
+
+# User secrets
+secrets.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# Oracle config/cache/temp (se aplicável)
+*.dmp
+*.log
+*.ora
+
+# EF Migrations history (opcional)
+*.bak
+*.snapshot
+
+# Exclude database files
+*.mdf
+*.ldf
+
+# Publish output
+publish/[conte£do] 

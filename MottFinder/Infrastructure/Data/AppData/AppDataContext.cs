@@ -1,8 +1,8 @@
-﻿using MotFinder.Domain.Entities;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using MottFinder.Domain.Entities;
 
 
-namespace MotFinder.Infrastructure.Data.AppData
+namespace MottFinder.Infrastructure.Data.AppData
 {
     public class AppDataContext : DbContext
     {

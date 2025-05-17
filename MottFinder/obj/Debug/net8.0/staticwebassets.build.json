@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "oBEmGb5KHQI2bvjwfEmRo9Sns7f1LTGXol+hCAO0dK4=",
+  "Hash": "1mg6/FW8tQfBH2pqFqWu33Ovi2ujmjvMrAWnBBXZW2Y=",
   "Source": "MottFinder",
   "BasePath": "_content/MottFinder",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

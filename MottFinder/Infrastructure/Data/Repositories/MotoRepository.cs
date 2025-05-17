@@ -1,10 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MotFinder.Domain.Entities;
-using MotFinder.Domain.Interfaces;
-using MotFinder.Infrastructure.Data.AppData;
+using MottFinder.Domain.Entities;
+using MottFinder.Domain.Interfaces;
+using MottFinder.Infrastructure.Data.AppData;
 
 
-namespace MotFinder.Infrastructure.Data.Repositories
+namespace MottFinder.Infrastructure.Data.Repositories
 {
     public class MotoRepository : IMotoRepository
     {

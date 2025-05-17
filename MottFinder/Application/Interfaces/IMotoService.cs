@@ -1,12 +1,12 @@
-﻿using MotFinder.Application.Dtos;
-using MotFinder.Domain.Entities;
+﻿using MottFinder.Application.Dtos;
+using MottFinder.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotFinder.Application.Interfaces
+namespace MottFinder.Application.Interfaces
 {
     public interface IMotoService
     {

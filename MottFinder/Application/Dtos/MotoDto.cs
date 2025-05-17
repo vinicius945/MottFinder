@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotFinder.Application.Dtos
+namespace MottFinder.Application.Dtos
 {
     public class MotoDto
     {

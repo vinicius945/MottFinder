@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using MotFinder.Application.Interfaces;
-using MotFinder.Application.Services;
-using MotFinder.Domain.Interfaces;
-using MotFinder.Infrastructure.Data.AppData;
-using MotFinder.Infrastructure.Data.Repositories;
+using MottFinder.Application.Interfaces;
+using MottFinder.Application.Services;
+using MottFinder.Infrastructure.Data.Repositories;
+using MottFinder.Domain.Interfaces;
+using MottFinder.Infrastructure.Data.AppData;
 
 var builder = WebApplication.CreateBuilder(args);
 

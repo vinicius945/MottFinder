@@ -1,5 +1,5 @@
-﻿using MotFinder.Application.Dtos;
-using MotFinder.Application.Interfaces;
+﻿using MottFinder.Application.Dtos;
+using MottFinder.Application.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MotFinder.Presentation.Controllers
+namespace MottFinder.Presentation.Controllers
 {
     [ApiController]
     [Route("api/motos")]

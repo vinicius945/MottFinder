@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
 
-namespace MotFinder.Domain.Entities
+namespace MottFinder.Domain.Entities
 {
     [Table("TB_MOTO")]
     public class Moto

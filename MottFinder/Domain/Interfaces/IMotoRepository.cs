@@ -1,11 +1,11 @@
-﻿using MotFinder.Domain.Entities;
+﻿using MottFinder.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotFinder.Domain.Interfaces
+namespace MottFinder.Domain.Interfaces
 {
     public interface IMotoRepository
     {
