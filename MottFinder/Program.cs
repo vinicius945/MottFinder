@@ -18,6 +18,11 @@ builder.Services.AddDbContext<AppDataContext>(options =>
 builder.Services.AddScoped<IMotoService, MotoService>();
 builder.Services.AddScoped<IMotoRepository, MotoRepository>();
 
+builder.Services.AddScoped<ICameraService, CameraService>();
+builder.Services.AddScoped<ICameraRepository, CameraRepository>();
+
+builder.Services.AddScoped<IGpsService, GpsService>();
+builder.Services.AddScoped<IGpsRepository, GpsRepository>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

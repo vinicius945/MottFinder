@@ -8,6 +8,8 @@ namespace MottFinder.Infrastructure.Data.AppData
     {
         public AppDataContext(DbContextOptions<AppDataContext> options) : base(options) { }
 
+        public DbSet<Camera> Cameras { get; set; }
+        public DbSet<Gps> Gps { get; set; }
         public DbSet<Moto> Motos { get; set; }
     }
 }

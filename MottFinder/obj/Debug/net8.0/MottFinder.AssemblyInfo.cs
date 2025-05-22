@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MottFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcef5293cf0d8a788790dc0df12eb41251476603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae1b9259914c0501408602e8af88bd2ada336ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MottFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MottFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
